@@ -2,6 +2,8 @@
 
 Este material tem como objetivo apresentar fontes de estudo e referências multidisciplinares para uma imersão introdutória no campo da Inteligência Artificial, com foco especial em GenAI (Inteligência Artificial Generativa).
 
+> :construction: 2025-06-25 — WIP (Work in Progress)
+
 
 ## Mapa conceitual (2025-06)
 
