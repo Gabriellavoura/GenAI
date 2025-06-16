@@ -3,7 +3,7 @@
 Este material tem como objetivo apresentar fontes de estudo e referências multidisciplinares para uma imersão introdutória no campo da Inteligência Artificial, com foco especial em GenAI (Inteligência Artificial Generativa).
 
 
-## Glossário 2025-06
+## Mapa conceitual (2025-06)
 
 Este glossário apresenta alguns dos termos, não todos, porém serve como ponto de partida para contextualização dentre as tecnicas existentes.
 
