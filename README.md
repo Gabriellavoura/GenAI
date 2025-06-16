@@ -9,7 +9,7 @@ Este material tem como objetivo apresentar fontes de estudo e referências multi
 
 Este mapa conceitual apresenta alguns dos principais termos e técnicas relacionados à Inteligência Artificial (IA).  Não é uma lista completa, ele serve como um ponto de partida para a contextualização dos diversos subcampos da área.
 
-Abaixo, o diagrama de Venn ilustra a intersecção entre diferentes campos de pesquisa da IA.
+O diagrama de Venn abaixo, ilustra a intersecção entre diferentes campos de pesquisa da IA.
 
 <p align="center">
   <img src="img/VennDiagramIA.png" alt="Diagrama de Veen representando relação das tecnicas e subclassificações de IA" width="400"/>
