@@ -174,7 +174,7 @@ Artificial Intelligence
 ### 🎥 **Canais:**
 - **[Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)- Andrej Karpathy (1h)**
 - **[Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) - 3blue1brown (10min)**
-- **[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3blue1brown (10min)****
+- **[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3blue1brown (10min)**
 - **[Large Language Models Explained](https://www.youtube.com/watch?v=5sLYAQS9sWQ) - Andrej Karpathy (1h)**
 - **[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - Andrej Karpathy (1h)**
 - **[How ChatGPT Works Technically](https://www.youtube.com/watch?v=bSvTVREwSNw) - ByteByteGo(30min)**
@@ -182,7 +182,6 @@ Artificial Intelligence
 - **[Sebastian Raschka](https://www.youtube.com/@SebastianRaschka)**
 - **[Jeremy Howard - course.fast.ai](https://www.youtube.com/@howardjeremyp)**
 - **[MIT OpenCourseWare](https://www.youtube.com/@mitocw)**
-- **[Stanford Online](https://www.youtube.com/@stanfordonline)**
 - **[Stanford Online](https://www.youtube.com/@stanfordonline)**
 
 ---
