@@ -7,16 +7,17 @@ Este material tem como objetivo apresentar fontes de estudo e referências multi
 
 ## Mapa conceitual (2025-06)
 
-Este glossário apresenta alguns dos termos, não todos, porém serve como ponto de partida para contextualização dentre as tecnicas existentes.
+Este mapa conceitual apresenta alguns dos principais termos e técnicas relacionados à Inteligência Artificial (IA).  Não é uma lista completa, ele serve como um ponto de partida para a contextualização dos diversos subcampos da área.
 
-A estrutura descrita a seguir descreve em detalhes a taxonomia descrita no diagrama de venn da figura abaixo.
+Abaixo, o diagrama de Venn ilustra a intersecção entre diferentes campos de pesquisa da IA.
 
 <p align="center">
   <img src="img/VennDiagramIA.png" alt="Diagrama de Veen representando relação das tecnicas e subclassificações de IA" width="400"/>
 </p>
 
+A estrutura a seguir apresenta uma taxonomia descritiva baseada no diagrama acima.
 
-> Escolha um tópico de interesse, estude os conceitos e tecnologias.
+> 💡 Sugestão de uso: Escolha um tópico, aprofunde-se nos conceitos e explore as ferramentas e abordagens utilizadas nesse domínio.
 
 ```shell
 Artificial Intelligence
