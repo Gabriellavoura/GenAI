@@ -123,7 +123,7 @@ Artificial Intelligence
              │        └── Agentic RAG / Hierarchical RAG
              ├── Agents & Orchestration
              │    ├── AutoGPT / BabyAGI
-             │    ├── LangGraph
+             │    ├── LangChain / LangGraph
              │    ├── CrewAI
              │    ├── OpenDevin
              │    └── ReAct / Plan-and-Execute patterns
