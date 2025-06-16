@@ -142,36 +142,40 @@ Artificial Intelligence
 ```
 
 ###  📖 **Livros**
-* **[Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio e Aaron Courville**
-*  **Artificial Intelligence: A Modern Approach" por Stuart Russell e Peter Norvig**
+- **[Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio e Aaron Courville**
+-  **Artificial Intelligence: A Modern Approach" por Stuart Russell e Peter Norvig**
+  
 ### 📺**Cursos Online**
-* **[CS50 - Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) (Harvard - David Malan)**
-* **[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)" (Coursera - Andrew Ng)**
-* **[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)" (Coursera - Andrew Ng)**
-* **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)" (Coursera - deeplearning.ai)**
-* **[Course.fast.ai](https://course.fast.ai/)**
-* **[Introduction to Large Language Models](https://www.cloudskillsboost.google/course_templates/539) - Google Cloud**
+- **[CS50 - Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) (Harvard - David Malan)**
+- **[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)" (Coursera - Andrew Ng)**
+- **[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)" (Coursera - Andrew Ng)**
+- **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)" (Coursera - deeplearning.ai)**
+- **[Course.fast.ai](https://course.fast.ai/)**
+- **[Introduction to Large Language Models](https://www.cloudskillsboost.google/course_templates/539) - Google Cloud**
+  
 ### 📄**Artigos (LLM)**
-* **[Attention Is All You Need](https://www.youtube.com/watch?v=wjZofJX0v4M) (Vaswani et al., 2017)**
-* **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018)](https://arxiv.org/abs/1810.04805)**
-* **[GPT-3: Language Models are Few-Shot Learners (Brown et al., 2020)](https://arxiv.org/abs/2005.14165)**
-* **[Papers with code](https://paperswithcode.com/)**
+- **[Attention Is All You Need](https://www.youtube.com/watch?v=wjZofJX0v4M) (Vaswani et al., 2017)**
+- **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018)](https://arxiv.org/abs/1810.04805)**
+- **[GPT-3: Language Models are Few-Shot Learners (Brown et al., 2020)](https://arxiv.org/abs/2005.14165)**
+- **[Papers with code](https://paperswithcode.com/)**
+  
 ### 📚**MISC**
-* **[Open AI Cookbook]( https://github.com/openai/openai-cookbook)**
-* **[Blog da Hugging Face](https://huggingface.co/blog)**
-* **[A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)** 
+- **[Open AI Cookbook]( https://github.com/openai/openai-cookbook)**
+- **[Blog da Hugging Face](https://huggingface.co/blog)**
+- **[A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)** 
 - **[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)** 
 - **[What Is ChatGPT Doing… and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)** 
 - **[What is RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)**
-- [RAG vs Fine-tuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) - Comparação de abordagens
+- **[RAG vs Fine-tuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) - Comparação de abordagens**
 - **[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks – Artigo da Meta AI](https://arxiv.org/abs/2005.11401)**
 - **[RAG Explained in 5 Minutes](https://www.youtube.com/watch?v=T-D1OfcDW1M)**
-- [LangChain](https://python.langchain.com/docs/tutorials/rag/) - Biblioteca Python para construir sistemas RAG. 
+- **[LangChain](https://python.langchain.com/docs/tutorials/rag/) - Biblioteca Python para construir sistemas RAG.**
+
 ### 🎥 **Canais:**
-* **[Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)- Andrej Karpathy (1h)**
-* **[Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) - 3blue1brown (10min)**
-* **[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3blue1brown (10min)****
-* **[Large Language Models Explained](https://www.youtube.com/watch?v=5sLYAQS9sWQ) - Andrej Karpathy (1h)**
+- **[Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)- Andrej Karpathy (1h)**
+- **[Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) - 3blue1brown (10min)**
+- **[Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3blue1brown (10min)****
+- **[Large Language Models Explained](https://www.youtube.com/watch?v=5sLYAQS9sWQ) - Andrej Karpathy (1h)**
 - **[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - Andrej Karpathy (1h)**
 - **[How ChatGPT Works Technically](https://www.youtube.com/watch?v=bSvTVREwSNw) - ByteByteGo(30min)**
 - **[sentdex](https://www.youtube.com/user/sentdex)**
@@ -181,8 +185,8 @@ Artificial Intelligence
 - **[Stanford Online](https://www.youtube.com/@stanfordonline)**
 - **[Stanford Online](https://www.youtube.com/@stanfordonline)**
 
-
 ---
+
 ## **🛠️ Tutoriais Práticos**
 
 - **[Build a RAG App with Python](https://python.langchain.com/docs/tutorials/rag)**
@@ -197,10 +201,10 @@ Artificial Intelligence
 	- **[Hugging Face](https://huggingface.co/)** - Hub de modelos e datasets
 	- **[LangChain](https://python.langchain.com/)** - Framework para aplicações LLM
 	- **[LlamaIndex](https://www.llamaindex.ai/)** - Framework para RAG
-	- **[chainlit](https://docs.chainlit.io/get-started/overview) - Framework para interfaces**
-	- **[Streamlit](https://streamlit.io/) - Framework para interfaces**
-	- **[Gradio](https://www.gradio.app/) - Deploy de notebooks como aplicações**
-	- **[Google Colab](https://colab.google/) - Notebook python com suporte a GPU/TPUs**
+	- **[chainlit](https://docs.chainlit.io/get-started/overview)** - Framework para interfaces
+	- **[Streamlit](https://streamlit.io/)** - Framework para interfaces
+	- **[Gradio](https://www.gradio.app/)** - Deploy de notebooks como aplicações
+	- **[Google Colab](https://colab.google/)** - Notebook python com suporte a GPU/TPUs
 	- **[Free LLM APis Resource](https://github.com/cheahjs/free-llm-api-resources)**
 * **Bancos Vetoriais**
 	- **[Chroma](https://www.trychroma.com/)** - Open-source vector store
